@@ -1,0 +1,14 @@
+{
+  "name": "mi-app-prueba",
+  "version": "1.0.0",
+  "description": "Prueba para Render",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.43.0",
+    "express": "^4.19.0",
+    "multer": "^1.4.5-lts.1"
+  }
+}
